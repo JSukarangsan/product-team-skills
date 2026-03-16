@@ -5,7 +5,7 @@
 A curated collection of specialized AI skills that extend Claude's capabilities for common product management workflows. Each skill provides structured analysis, actionable outputs, and proven frameworks used across 50+ product teams.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Skills](https://img.shields.io/badge/skills-7-blue.svg)](./skills/)
+[![Skills](https://img.shields.io/badge/skills-8-blue.svg)](./skills/)
 [![Maintained](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/JSukarangsan/product-team-skills)
 
 ---
@@ -33,6 +33,7 @@ Use the PRD Analysis skill to review this document.
 ### 1. Choose a Skill
 
 Browse the [skills directory](./skills/) and find what you need:
+- **JTBD PRD Writer** - Create Jobs-to-be-Done driven PRDs optimized for AI prototyping
 - **PRD Analysis** - Review product specs before engineering
 - **Research Synthesis** - Turn user research into insights
 - **User Feedback Synthesis** - Analyze support tickets and reviews
@@ -162,6 +163,14 @@ Facilitate effective sprint planning
 
 </td>
 <td width="50%">
+
+#### [JTBD PRD Writer](./jtbd-prd-writer/)
+Create Jobs-to-be-Done driven PRDs
+- Conversational discovery process (4 core questions)
+- 15-section PRD with component specs & data models
+- AI-ready for Cursor, Lovable, Figma Make/V0
+
+**Best for:** New feature specs, AI prototyping, cross-functional alignment
 
 </td>
 </tr>

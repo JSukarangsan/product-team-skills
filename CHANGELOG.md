@@ -49,6 +49,27 @@ All skills tested with:
 
 ---
 
+## [1.1.0] - 2026-03-16
+
+### Added
+
+- **JTBD PRD Writer** skill for creating Jobs-to-be-Done driven Product Requirement Documents
+  - Conversational discovery process with 4 core questions (Problem, Users, Tech, Success)
+  - 15-section PRD structure including JTBD, user stories, component inventory, data models, acceptance criteria
+  - Optimized for AI prototyping tools (Cursor, Lovable, Figma Make/V0)
+  - Complete example PRD for recipe save feature
+  - Comprehensive usage guide with workflows, best practices, and troubleshooting
+  - Adapted from [johnnychauvet/prd-skill](https://github.com/johnnychauvet/prd-skill)
+
+**Key Features:**
+- Jobs-to-be-Done format: "When [situation], I want to [motivation], so I can [outcome]"
+- Traceable chain from JTBD → User Stories → Acceptance Criteria
+- AI-ready technical specifications (component names, TypeScript interfaces, API docs)
+- File structure scaffolding for code generation
+- Integration guides for popular AI development tools
+
+---
+
 ## [Unreleased]
 
 ### Planned
@@ -75,6 +96,12 @@ All skills tested with:
 ---
 
 ## Version History
+
+### [1.1.0] - 2026-03-16
+- Added JTBD PRD Writer skill
+- 8 production-ready skills
+- Enhanced documentation & planning capabilities
+- AI prototyping tool integrations
 
 ### [1.0.0] - 2026-01-15
 - Initial public release
